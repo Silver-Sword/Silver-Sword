@@ -2,9 +2,9 @@
 
 - 🔧 Working on: This README and a [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure)
 - 🌱 Learning: persistent segment trees and dynamic connectivity
+- ❤️ Passionate about: competitive programming, backend development, game development, and global sustainability
 
 ## ⚡ My Skill Set
-
 <table>
   <tr>
     <td align="center"> <b>Programming Languages</b></td>
@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 References
-https://github.com/colinbut/colinbut/blob/main/README.md?plain=1
+(example) https://github.com/colinbut/colinbut/blob/main/README.md?plain=1
+(logo images) https://github.com/marwin1991/profile-technology-icons/blob/main/README.md?plain=1#%EF%B8%8F-cc
 -->
