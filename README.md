@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔧 Working on: This README and a [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure)
+- 🌱 Learning: Persistent Segment Trees and dynamic connectivity
+
+## ⚡ My Skill Set
+
+🚧 Section under construction
 
 <!--
 **Silver-Sword/Silver-Sword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
