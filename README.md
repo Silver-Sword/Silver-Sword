@@ -50,16 +50,39 @@
 
 ## 🌟 Project Spotlight: Subliminal  
 
-🚧 Section under construction
-
+#### Overview
 - a third person RPC in a top-down 2D, pixelated world with both puzzles and realtime combat
-- The user plays a detective traversing through 4 unique characters’ minds to solve a murder mystery.
-![alt txt](./images/subliminal-sample-1.png)
+- the player controls a detective exploring the minds of 4 characters to solve a murder mystery
+<div align="center">
+<!--   <img 
+    src="/images/subliminal-sample-1.png"
+    alt="A video game screenshot where the protagonist is battling a wizard like enemy in a Binding of Isaac style arena."
+    title="Subliminal Boss Fight"
+    width="362.5"
+    height="207"
+  /> -->
+  <img
+    src="./images/subliminal-sample-2.png"
+    alt="A video game screenshot in which the player character is in an isometric office."
+    title="Detective's Office"
+    width="368.5"
+    height="207"
+  />
+  <img
+    src="./images/subliminal-sample-3.png"
+    alt="A video game screenshot of a detective fighting a slime monster on a road within a city."
+    title="City Fight"
+    width="373.6"
+    height="207"
+  />
+</div>
 
+#### Details
 - Technologies used: Unity, C#, Jira, Github, Visual Studio, Visual Studio Code, Discord
 - Developed in collaboration with Kaeden Le, Jordan Hannon, and Josef Ortiz-Feder over 3 months
 
-*Want to know more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) between 2:21:30 and 3:42:00.
+#### More?
+*Want to see more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) during timestamps 2:21:30 to 3:42:00.
 
 <!--
   Next Section Template
