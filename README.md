@@ -51,7 +51,7 @@
 ## 🌟 Project Spotlight: Subliminal  
 
 #### Overview
-- a third person RPC in a top-down 2D, pixelated world with both puzzles and realtime combat
+- a third person RPG in a top-down 2D, pixelated world with both puzzles and realtime combat
 - the player controls a detective exploring the minds of 4 characters to solve a murder mystery
 <div align="center">
 <!--   <img 
@@ -79,7 +79,7 @@
 
 #### Details
 - Technologies used: Unity, C#, Jira, Github, Visual Studio, Visual Studio Code, Discord
-- Developed in collaboration with Kaeden Le, Jordan Hannon, and Josef Ortiz-Feder over 3 months
+- Developed in collaboration with Kaeden Le, Jordan Hannon, and Josef Ortiz-Feder over the course of 3 months
 
 #### More?
 *Want to see more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) during timestamps 2:21:30 to 3:42:00.
