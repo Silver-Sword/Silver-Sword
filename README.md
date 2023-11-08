@@ -1,11 +1,12 @@
 # Hi there 👋
 
+
 - 🔧 Working on: This README and a [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure)
 - 🌱 Learning: persistent segment trees and dynamic connectivity
 - ❤️ Passionate about: competitive programming, backend development, game development, and global sustainability
 
 ## ⚡ My Skill Set
-<table>
+<table align="center">
   <tr>
     <td align="center"> <b>Programming Languages</b></td>
   </tr>
@@ -39,27 +40,30 @@
   </tr>
 </table>
 
-<!--
-Next Section
+<!-- 
+## 📈 Github Stats
 
-🚧 Section under construction
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silver-Sword)
+
+** Hopefully, I will improve these stats to the point where they should displayed in this readme
+-->
+
+## 🌟 Project Spotlight: Subliminal
+- a third person RPC in a top-down 2D, pixelated world with both puzzles and realtime combat
+- The user plays a detective traversing through 4 unique characters’ minds to solve a murder mystery.
+- Technologies used: Unity, C#, Jira, Github, Visual Studio, Visual Studio Code, Discord
+- Developed in collaboration with Kaeden Le, Jordan Hannon, and Josef Ortiz-Feder over 3 months
+
+*Want to know more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) between 2:21:30 and 3:42:00.
+
+<!--
+  Next Section Template
+  
+  🚧 Section under construction
 -->
 
 <!--
-**Silver-Sword/Silver-Sword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-References
-(example) https://github.com/colinbut/colinbut/blob/main/README.md?plain=1
-(logo images) https://github.com/marwin1991/profile-technology-icons/blob/main/README.md?plain=1#%EF%B8%8F-cc
+  References
+  (example) https://github.com/colinbut/colinbut/blob/main/README.md?plain=1
+  (logo images) https://github.com/marwin1991/profile-technology-icons/blob/main/README.md?plain=1#%EF%B8%8F-cc
 -->
