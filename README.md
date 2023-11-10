@@ -1,9 +1,19 @@
 # Hi there 👋
 
 
-- 🔧 Working on: This README and a [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure)
+- 🔧 Working on: A [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure) and a personal portfolio website
 - 🌱 Learning: persistent segment trees and dynamic connectivity
 - ❤️ Passionate about: competitive programming, backend development, game development, and global sustainability
+- <details>
+  <summary> 📈 GitHub Statistics </summary>
+  <div align="center">
+    <!-- I'm hoping that I will improve my github stats to warrant displaying this one as well -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Silver-Sword&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> --> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver-Sword&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Silver-Sword Programming Languages Distribution" title="Github Programming Languages" /> 
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Silver-Sword&theme=tokyonight" alt="Streak" width = 400 alt="Silver-Sword's Github Statistics" title="Github Streak Statistics" />
+  
+  </div>
+</details>
 
 ## ⚡ My Skill Set
 <table align="center">
@@ -82,8 +92,8 @@
 - Developed in collaboration with Kaeden Le, Jordan Hannon, and Josef Ortiz-Feder over the course of 3 months
 - Technologies used: Unity, C#, Jira, Github, Visual Studio, Visual Studio Code, Discord
 
-#### More?
-*Want to see more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) during timestamps 2:21:30 to 3:42:00.
+#### Interested?
+*Want to see more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) between 2:21:30 and 3:42:00.
 
 <!--
   References
