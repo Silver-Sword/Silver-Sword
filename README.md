@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🔧 Working on: A [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure) and a collated [hackpack for UCF Guioco Piano](https://github.com/Silver-Sword/UCF-Giuoco-Piano-Hackpack)
+- 🔧 Working on: A [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure) and a collated [hackpack for UCF Giuoco Piano](https://github.com/Silver-Sword/UCF-Giuoco-Piano-Hackpack)
 - 🌱 Learning: persistent segment trees and dynamic connectivity
 - ❤️ Passionate about: competitive programming, backend development, game development, and global sustainability
 - <details>
