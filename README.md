@@ -1,9 +1,9 @@
 # Hi there 👋
 
 
-- 🔧 Working on: A [Text Adventure video game](https://github.com/Silver-Sword/Text-Adventure) and a collated [hackpack for UCF Giuoco Piano](https://github.com/Silver-Sword/UCF-Giuoco-Piano-Hackpack)
-- 🌱 Learning: link-cut trees and 3D computational geometry
-- ❤️ Passionate about: competitive programming, backend development, game development, and global sustainability
+- 🔧 Working on: A Google Docs for Music Composition called [Tune Tracer](https://github.com/Silver-Sword/Tune-Tracer)
+- 🌱 Learning: Firebase and programmatic concurrency
+- ❤️ Passionate about: backend development, game development, problem solving, and global sustainability
 - <details>
   <summary> 📈 GitHub Statistics </summary>
   <div align="center">
@@ -15,7 +15,7 @@
   </div>
 </details>
 
-## ⚡ My Skill Set
+## ⚡ Skill Set
 <table align="center">
   <tr>
     <td align="center"> <b>Programming Languages</b></td>
