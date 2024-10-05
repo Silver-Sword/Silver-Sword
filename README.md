@@ -1,8 +1,8 @@
 # Hi there 👋
 
 
-- 🔧 Working on: A Google Docs for Music Composition called [Tune Tracer](https://github.com/Silver-Sword/Tune-Tracer)
-- 🌱 Learning: Firebase and programmatic concurrency
+- 🔧 Working on: [Tune Tracer](https://github.com/Silver-Sword/Tune-Tracer) - Google Docs for music composition 
+- 🌱 Learning: Firebase and frontend development
 - ❤️ Passionate about: backend development, game development, problem solving, and global sustainability
 - <details>
   <summary> 📈 GitHub Statistics </summary>
@@ -61,7 +61,7 @@
 
 ## 🌟 Project Spotlight: Subliminal  
 
-#### Overview
+### Overview
 - a third person RPG in a top-down 2D, pixelated world with both puzzles and realtime combat
 - the player controls a detective exploring the minds of 4 characters to solve a murder mystery
 <div align="center">
@@ -88,12 +88,12 @@
   />
 </div>
 
-#### Development Details
+### Development Details
 - Developed in collaboration with Kaeden Le, Jordan Hannon, and Josef Ortiz-Feder over the course of 3 months
 - Technologies used: Unity, C#, Jira, Github, Visual Studio, Visual Studio Code, Discord
 
-#### Interested?
-*Want to see more?* Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) between 2:21:30 and 3:42:00.
+### Want to see more?
+Our game was played during a [recorded livestream](https://youtu.be/y8J5yYUdjnU?si=VhVZxYEI34tQrfp5&t=8484) between 2:21:30 and 3:42:00.
 
 <!--
   References
