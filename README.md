@@ -1,10 +1,13 @@
 # Hi there 👋
 
 
-- 🔧 Working on: My [Portfolio](https://silver-sword.github.io) 
-- 🌱 Learning: Firebase and frontend development
-- ❤️ Passionate about: backend development, indie game development, problem solving, global sustainability, and PC video games
-- <details>
+🔧 Working on: My [Portfolio](https://silver-sword.github.io) 
+
+🌱 Learning: Firebase and frontend development
+
+❤️ Passionate about: backend development, indie game development, problem solving, global sustainability, and PC video games
+
+<details>
   <summary> 📈 GitHub Statistics </summary>
   <div align="center">
     <!-- I'm hoping that I will improve my github stats to warrant displaying this one as well -->
