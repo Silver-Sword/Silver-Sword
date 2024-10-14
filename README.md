@@ -1,9 +1,9 @@
 # Hi there 👋
 
 
-- 🔧 Working on: [Tune Tracer](https://github.com/Silver-Sword/Tune-Tracer) - Google Docs for music composition 
+- 🔧 Working on: My [Portfolio](https://silver-sword.github.io) 
 - 🌱 Learning: Firebase and frontend development
-- ❤️ Passionate about: backend development, game development, problem solving, and global sustainability
+- ❤️ Passionate about: backend development, indie game development, problem solving, global sustainability, and PC video games
 - <details>
   <summary> 📈 GitHub Statistics </summary>
   <div align="center">
