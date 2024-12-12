@@ -5,7 +5,7 @@
 
 🌱 Learning: Tailwind CSS and DnD
 
-❤️ Passionate about: backend development, indie game development, problem solving, PC video games, and DnD
+❤️ Passionate about: backend development, indie game development, problem solving, PC video games, and D&D
 
 <details>
   <summary> 📈 GitHub Statistics </summary>
