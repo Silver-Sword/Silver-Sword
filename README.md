@@ -3,9 +3,9 @@
 
 🔧 Working on: My [Portfolio](https://silver-sword.github.io) 
 
-🌱 Learning: Firebase and frontend development
+🌱 Learning: Tailwind CSS and DnD
 
-❤️ Passionate about: backend development, indie game development, problem solving, global sustainability, and PC video games
+❤️ Passionate about: backend development, indie game development, problem solving, PC video games, and DnD
 
 <details>
   <summary> 📈 GitHub Statistics </summary>
